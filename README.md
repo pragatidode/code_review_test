@@ -1,2 +1,4 @@
-# code_review_test
-Created this repository for basic testing of gpt code reviewer
+# Number Utils
+
+Simple utilities for prime checking and factorial computation.
+
